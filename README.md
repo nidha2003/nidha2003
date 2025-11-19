@@ -2,7 +2,7 @@
 
 ### Software Engineer | Python | Java | SQL | IoT Software
 
-I’m a B.Tech ECE student passionate about building real-world applications using  
+I’m a B.Tech ECE Graduate passionate about building real-world applications using  
 Python, Java, SQL, Tkinter, JavaFX, Flask, and IoT technologies.
 
 ### 🔧 Technologies & Skills
