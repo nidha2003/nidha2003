@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Fathima Nidha 👋
 
-<!--
-**nidha2003/nidha2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Python | Java | SQL | IoT Software
 
-Here are some ideas to get you started:
+I’m a B.Tech ECE student passionate about building real-world applications using  
+Python, Java, SQL, Tkinter, JavaFX, Flask, and IoT technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Skills
+- **Programming:** Python, Java, SQL  
+- **Concepts:** OOP, DSA, DBMS, OS, CN
+- **Tools:** Tkinter, JavaFX, Flask, MQTT, ThingSpeak  
+- **Databases:** MySQL, SQLite  
+- **IoT Skills:** ESP32, Arduino  
+- **Other:** Git, GUI Development, API handling  
+
+### 📌 Featured Projects
+- **Student Enrollment Management System (Python + MySQL)**  
+- **Personal Finance Tracker (Python + SQLite)**  
+- **Smart Home Energy Monitoring System (ESP32 + Flask + MQTT)**  
+- **Online Quiz Application (JavaFX)**  
+
+### 📫 Connect with me  
+**LinkedIn:** linkedin.com/in/fathimanidha-tpm  
